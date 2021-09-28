@@ -9,7 +9,7 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e atualmen
   * Buscando conhecimento para evoluir na carreira como desenvolverdor. 🖱️
   * Gosto de estudar sobre investimentos e economia. 💰
   * Estou atualmente no módulo de Back-End no curso da Trybe. 🚀
-  * Para me contactar, envie um e-mail para [felippecorrea2010@gmail.com](felippecorrea2010@gmail.com). ✉️
+  * Para me contactar, envie um e-mail para [felippecorrea2010@gmail.com](felippecorrea2010@gmail.com) ou me contate pelo Linkedin [https://www.linkedin.com/in/felippecorrea/](https://www.linkedin.com/in/felippecorrea/)
   
   <h2>Me contate</h2>
   <div align="left">
@@ -19,20 +19,10 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e atualmen
     </a>
   </span>
   <span>
-    <a href="https://twitter.com/Esmaben17" >
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" width="4%"/>
-    </a>
-  </span>
-  <span>
     <a href="https://www.instagram.com/femaben/?hl=pt-br" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
       </a>
   </span>
-  <span>
-    <a href="https://mail.google.com/mail/u/0/#inbox">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
-      </a>
-    </span>
     <br>
     <br>
     
