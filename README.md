@@ -61,9 +61,6 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e atualmen
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
-   <a href="https://mysql.com/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/mySQL_logo.svg/2560px-mySQLlogo.svg.png" width="5%" />
-   </a>
  </div>
 
   <br><br>
