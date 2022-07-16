@@ -61,6 +61,30 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e sou **de
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
+   <a href="https://nodejs.org/en/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="5%" />
+   </a>
+   <a href="https://vuejs.org/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vue.svg" width="5%" />
+   </a>
+   <a href="https://dev.mysql.com/"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
+   </a>
+   <a href="https://www.mongodb.com/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb-icon.svg" width="5%" />
+   </a>
+   <a href="https://www.postgresql.org/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" width="5%" />
+   </a>
+   <a href="https://www.docker.com/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" width="5%" />
+   </a>
+   <a href="https://expressjs.com/"> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/express.svg" width="5%" />
+   </a>
+   <a href="https://adonisjs.com/"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
+   </a>
  </div>
 
   <br><br>
