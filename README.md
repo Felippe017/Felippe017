@@ -83,7 +83,7 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e sou **de
       <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/express.svg" width="5%" />
    </a>
    <a href="https://adonisjs.com/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
+      <img src="https://symbols.getvecta.com/stencil_73/35_adonisjs-icon.3e517ed488.svg" width="5%" />
    </a>
  </div>
 
