@@ -8,7 +8,6 @@ Olá, me chamo **Felippe Correa LIma**, sou do Rio de Janeiro, Brasil e sou **de
   * Amante de Bitcoin e de projetos open source. 🖥️
   * Buscando conhecimento para evoluir na carreira como desenvolvedor. 🖱️
   * Gosto de estudar sobre investimentos e economia. 💰
-  * Estou atualmente trabalhando como desenvolvedor full stack na Meta Serviços e consultoria de TI. 🚀
   * Para me contactar, envie um e-mail para [felippecorrea2010@gmail.com](felippecorrea2010@gmail.com) ou me contate pelo Linkedin [https://www.linkedin.com/in/felippecorrea/](https://www.linkedin.com/in/felippecorrea/)
   
   <h2>Me contate</h2>
