@@ -56,10 +56,10 @@ Atualmente, foco em construir aplicações escaláveis utilizando **React, Next,
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felippe017&show_icons=true&theme=dark&hide_border=true" alt="Felippe GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe017&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
-</p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felippe017&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe017&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
 ---
 
